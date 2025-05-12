@@ -1,4 +1,5 @@
 # linux-configs: Scripts de automação
+Aplicando alguns conhecimentos adquiridos via curso Linux da Alura.
 
 ## Descrição
 Este repositório contém scripts para automação de tarefas comuns em servidores Linux, como atualização de pacotes, instalação de pacotes essenciais e criação de usuários.
